@@ -9,7 +9,7 @@
   },
   "videos": {
     "mainvideo": "https://6655ab8dab996.streamlock.net/live/nugsdemo/playlist.m3u8",
-    "subtitles": "Assets/Data/Orchestrator/Subtitles/testSubs.srt"
+    "subtitles": "https://krmmachlab.github.io/Subtitles/TestSubs.srt"
   },
   "messages": {
     "welcome_main": "Welcome to Nugs!!!!",
