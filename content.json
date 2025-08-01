@@ -1,0 +1,18 @@
+{
+  "posters": {
+    "north_a": "https://module-assets.eu-central-1.linodeobjects.com/nugs/DeadCompany05.jpg",
+    "north_b": "https://module-assets.eu-central-1.linodeobjects.com/nugs/DeadCompany06.jpg",
+    "east_a": "https://module-assets.eu-central-1.linodeobjects.com/nugs/DeadCompany02.jpg",
+    "east_b": "https://module-assets.eu-central-1.linodeobjects.com/nugs/DeadCompany.jpg",
+    "south_a": "https://module-assets.eu-central-1.linodeobjects.com/nugs/DeadCompany03.jpg",
+    "south_b": "https://module-assets.eu-central-1.linodeobjects.com/nugs/DeadCompany04.jpg"
+  },
+  "videos": {
+    "mainvideo": "https://6655ab8dab996.streamlock.net/live/nugsdemo/playlist.m3u8",
+    "subtitles": "Assets/Data/Orchestrator/Subtitles/testSubs.srt"
+  },
+  "messages": {
+    "welcome_main": "Welcome to Nugs!!!!",
+    "welcome_back": "Welcome back to Nugs"
+  }
+}
