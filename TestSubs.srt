@@ -115,15 +115,15 @@ SET_SPOTLIGHT_ANGLE SpotLight3 {"value":70,"duration":0.85,"pattern":"Linear"}
 
 17
 00:00:12,450 --> 00:00:13,517
-SET_LIGHT_ITENSITY SpotLight1 {"value":2,"duration":0.85,"pattern":"Linear"}
-SET_LIGHT_ITENSITY SpotLight2 {"value":2,"duration":0.85,"pattern":"Linear"}
-SET_LIGHT_ITENSITY SpotLight3 {"value":2,"duration":0.85,"pattern":"Linear"}
-SET_LIGHT_COLOR SpotLight1 {"value":{"r":0,"g":0.2,"b":0,"a":1},"duration":0.85,"pattern":"Linear"}
-SET_LIGHT_COLOR SpotLight2 {"value":{"r":0,"g":0.2,"b":0,"a":1},"duration":0.85,"pattern":"Linear"}
-SET_LIGHT_COLOR SpotLight3 {"value":{"r":0,"g":0.2,"b":0,"a":1},"duration":0.85,"pattern":"Linear"}
-SET_SPOTLIGHT_ANGLE SpotLight1 {"value":10,"duration":0.85,"pattern":"Linear"}
-SET_SPOTLIGHT_ANGLE SpotLight2 {"value":10,"duration":0.85,"pattern":"Linear"}
-SET_SPOTLIGHT_ANGLE SpotLight3 {"value":10,"duration":0.85,"pattern":"Linear"}
+SET_LIGHT_ITENSITY SpotLight1 {"value":2,"duration":0.5,"pattern":"Linear"}
+SET_LIGHT_ITENSITY SpotLight2 {"value":2,"duration":0.5,"pattern":"Linear"}
+SET_LIGHT_ITENSITY SpotLight3 {"value":2,"duration":0.5,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight1 {"value":{"r":0,"g":0,"b":0,"a":1},"duration":0.5,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight2 {"value":{"r":0,"g":0,"b":0,"a":1},"duration":0.5,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight3 {"value":{"r":0,"g":0,"b":0,"a":1},"duration":0.5,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight1 {"value":10,"duration":0.5,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight2 {"value":10,"duration":0.5,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight3 {"value":10,"duration":0.5,"pattern":"Linear"}
 
 18
 00:00:13,283 --> 00:00:14,033
@@ -247,6 +247,8 @@ SET_LIGHT_COLOR SpotLight3 {"value":{"r":0,"g":0.2,"b":0,"a":1},"duration":0.85,
 SET_SPOTLIGHT_ANGLE SpotLight1 {"value":10,"duration":0.85,"pattern":"Linear"}
 SET_SPOTLIGHT_ANGLE SpotLight2 {"value":10,"duration":0.85,"pattern":"Linear"}
 SET_SPOTLIGHT_ANGLE SpotLight3 {"value":10,"duration":0.85,"pattern":"Linear"}
+
+
 
 999
 00:00:12,200 --> 00:00:12,600
