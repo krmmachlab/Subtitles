@@ -299,6 +299,42 @@ SET_LIGHT_ITENSITY SpotLight1 {"value":0,"duration":0.85,"pattern":"Linear"}
 SET_LIGHT_ITENSITY SpotLight2 {"value":0,"duration":0.85,"pattern":"Linear"}
 SET_LIGHT_ITENSITY SpotLight3 {"value":0,"duration":0.85,"pattern":"Linear"}
 
+41
+00:00:25,300 --> 00:00:25,850
+SET_LIGHT_ITENSITY SpotLight1 {"value":8,"duration":0,"pattern":"Linear"}
+SET_LIGHT_ITENSITY SpotLight2 {"value":8,"duration":0,"pattern":"Linear"}
+SET_LIGHT_ITENSITY SpotLight3 {"value":8,"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight1 {"value":{"r":0,"g":0.8,"b":0.8,"a":1},"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight2 {"value":{"r":0.8,"g":0,"b":0.8,"a":1},"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight3 {"value":{"r":0.8,"g":0.8,"b":0,"a":1},"duration":0,"pattern":"Linear"}
+
+42
+00:00:26,267 --> 00:00:26,883
+SET_LIGHT_RANGE SpotLight1 {"value":10,"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight1 {"value":{"r":1,"g":0,"b":0.3,"a":1},"duration":0,"pattern":"Linear"}
+
+43
+00:00:26,457 --> 00:00:26,883
+SET_LIGHT_RANGE SpotLight2 {"value":10,"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight2 {"value":{"r":1,"g":0,"b":0.3,"a":1},"duration":0,"pattern":"Linear"}
+
+44
+00:00:26,647 --> 00:00:26,883
+SET_LIGHT_RANGE SpotLight3 {"value":10,"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight3 {"value":{"r":1,"g":0,"b":0.3,"a":1},"duration":0,"pattern":"Linear"}
+
+45
+00:00:26,837 --> 00:00:26,883
+SET_LIGHT_RANGE SpotLight1 {"value":30,"duration":0,"pattern":"Linear"}
+SET_LIGHT_RANGE SpotLight2 {"value":30,"duration":0,"pattern":"Linear"}
+SET_LIGHT_RANGE SpotLight3 {"value":30,"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight1 {"value":{"r":0,"g":1,"b":1,"a":1},"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight2 {"value":{"r":0,"g":1,"b":1,"a":1},"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight3 {"value":{"r":0,"g":1,"b":1,"a":1},"duration":0,"pattern":"Linear"}
+SET_LIGHT_ITENSITY SpotLight1 {"value":10,"duration":0,"pattern":"Linear"}
+SET_LIGHT_ITENSITY SpotLight2 {"value":10,"duration":0,"pattern":"Linear"}
+SET_LIGHT_ITENSITY SpotLight3 {"value":10,"duration":0,"pattern":"Linear"}
+
 999
 00:00:31,700 --> 00:00:31,700
 END
