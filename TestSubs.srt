@@ -127,6 +127,9 @@ SET_SPOTLIGHT_ANGLE SpotLight3 {"value":20,"duration":0.85,"pattern":"Linear"}
 
 18
 00:00:12,450 --> 00:00:13,517
+SET_LIGHT_RANGE SpotLight1 {"value":10,"duration":0,"pattern":"Linear"}
+SET_LIGHT_RANGE SpotLight2 {"value":10,"duration":0,"pattern":"Linear"}
+SET_LIGHT_RANGE SpotLight3 {"value":10,"duration":0,"pattern":"Linear"}
 SET_LIGHT_ITENSITY SpotLight1 {"value":5,"duration":0.85,"pattern":"Linear"}
 SET_LIGHT_ITENSITY SpotLight2 {"value":5,"duration":0.85,"pattern":"Linear"}
 SET_LIGHT_ITENSITY SpotLight3 {"value":5,"duration":0.85,"pattern":"Linear"}
