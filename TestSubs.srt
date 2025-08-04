@@ -1,24 +1,24 @@
 1
 00:00:00,000 --> 00:00:02,000
 LOG "Welcome to our show!"
-SET_LIGHT_RANGE SpotLight1 {"value":30,"duration":0,"pattern":"Linear"}
-SET_LIGHT_RANGE SpotLight2 {"value":30,"duration":0,"pattern":"Linear"}
-SET_LIGHT_RANGE SpotLight3 {"value":30,"duration":0,"pattern":"Linear"}
-SET_SPOTLIGHT_ANGLE SpotLight1 {"value":20,"duration":0,"pattern":"Linear"}
-SET_SPOTLIGHT_ANGLE SpotLight2 {"value":20,"duration":0,"pattern":"Linear"}
-SET_SPOTLIGHT_ANGLE SpotLight3 {"value":20,"duration":0,"pattern":"Linear"}
 
 2
 00:00:00,483 --> 00:00:01,233
-SET_LIGHT_COLOR SpotLight1 {"value":{"r":1,"g":0,"b":0.3,"a":1},"duration":0.19,"pattern":"Linear"}
+SET_LIGHT_RANGE SpotLight1 {"value":30,"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight1 {"value":{"r":1,"g":0,"b":0.3,"a":1},"duration":0,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight1 {"value":20,"duration":0,"pattern":"Linear"}
 
 3
 00:00:00,673 --> 00:00:01,233
-SET_LIGHT_COLOR SpotLight2 {"value":{"r":1,"g":0,"b":0.3,"a":1},"duration":0.19,"pattern":"Linear"}
+SET_LIGHT_RANGE SpotLight2 {"value":30,"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight2 {"value":{"r":1,"g":0,"b":0.3,"a":1},"duration":0,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight2 {"value":20,"duration":0,"pattern":"Linear"}
 
 4
 00:00:00,863 --> 00:00:01,233
-SET_LIGHT_COLOR SpotLight3 {"value":{"r":1,"g":0,"b":0.3,"a":1},"duration":0.19,"pattern":"Linear"}
+SET_LIGHT_RANGE SpotLight3 {"value":30,"duration":0,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight3 {"value":{"r":1,"g":0,"b":0.3,"a":1},"duration":0,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight3 {"value":20,"duration":0,"pattern":"Linear"}
 
 5
 00:00:01,053 --> 00:00:01,233
