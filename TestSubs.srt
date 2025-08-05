@@ -357,13 +357,13 @@ SET_SPOTLIGHT_ANGLE SpotLight2 {"value":50,"duration":0.8,"pattern":"Linear"}
 SET_SPOTLIGHT_ANGLE SpotLight3 {"value":50,"duration":0.8,"pattern":"Linear"}
 
 49
-00:00:28,500 --> 00:00:31,500
-SET_LIGHT_RANGE SpotLight1 {"value":10,"duration":2.5,"pattern":"Linear"}
-SET_LIGHT_RANGE SpotLight2 {"value":10,"duration":2.5,"pattern":"Linear"}
-SET_LIGHT_RANGE SpotLight3 {"value":10,"duration":2.5,"pattern":"Linear"}
-SET_SPOTLIGHT_ANGLE SpotLight1 {"value":0,"duration":2.5,"pattern":"Linear"}
-SET_SPOTLIGHT_ANGLE SpotLight2 {"value":0,"duration":2.5,"pattern":"Linear"}
-SET_SPOTLIGHT_ANGLE SpotLight3 {"value":0,"duration":2.5,"pattern":"Linear"}
+00:00:29,500 --> 00:00:31,500
+SET_LIGHT_RANGE SpotLight1 {"value":10,"duration":2,"pattern":"Linear"}
+SET_LIGHT_RANGE SpotLight2 {"value":10,"duration":2,"pattern":"Linear"}
+SET_LIGHT_RANGE SpotLight3 {"value":10,"duration":2,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight1 {"value":0,"duration":2,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight2 {"value":0,"duration":2,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight3 {"value":0,"duration":2,"pattern":"Linear"}
 
 999
 00:00:31,700 --> 00:00:31,700
