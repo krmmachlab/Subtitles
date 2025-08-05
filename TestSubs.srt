@@ -335,6 +335,36 @@ SET_LIGHT_ITENSITY SpotLight1 {"value":10,"duration":0,"pattern":"Linear"}
 SET_LIGHT_ITENSITY SpotLight2 {"value":10,"duration":0,"pattern":"Linear"}
 SET_LIGHT_ITENSITY SpotLight3 {"value":10,"duration":0,"pattern":"Linear"}
 
+46
+00:00:26,900 --> 00:00:27,750
+SET_SPOTLIGHT_ANGLE SpotLight1 {"value":50,"duration":1,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight2 {"value":50,"duration":1,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight3 {"value":50,"duration":1,"pattern":"Linear"}
+
+47
+00:00:27,750 --> 00:00:28,500
+SET_SPOTLIGHT_ANGLE SpotLight1 {"value":20,"duration":1,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight2 {"value":20,"duration":1,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight3 {"value":20,"duration":1,"pattern":"Linear"}
+
+48
+00:00:28,500 --> 00:00:29,500
+SET_LIGHT_COLOR SpotLight1 {"value":{"r":0.5,"g":0.5,"b":0,"a":1},"duration":1,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight2 {"value":{"r":0.5,"g":0.5,"b":0,"a":1},"duration":1,"pattern":"Linear"}
+SET_LIGHT_COLOR SpotLight3 {"value":{"r":0.5,"g":0.5,"b":0,"a":1},"duration":1,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight1 {"value":50,"duration":1,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight2 {"value":50,"duration":1,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight3 {"value":50,"duration":1,"pattern":"Linear"}
+
+49
+00:00:28,500 --> 00:00:31,500
+SET_LIGHT_RANGE SpotLight1 {"value":10,"duration":0,"pattern":"Linear"}
+SET_LIGHT_RANGE SpotLight2 {"value":10,"duration":0,"pattern":"Linear"}
+SET_LIGHT_RANGE SpotLight3 {"value":10,"duration":0,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight1 {"value":0,"duration":3,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight2 {"value":0,"duration":3,"pattern":"Linear"}
+SET_SPOTLIGHT_ANGLE SpotLight3 {"value":0,"duration":3,"pattern":"Linear"}
+
 999
 00:00:31,700 --> 00:00:31,700
 END
